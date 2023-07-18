@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/WorldTimeApi/static/js/main.5ec44e88.js",
+    "index.html": "/WorldTimeApi/index.html",
+    "main.5ec44e88.js.map": "/WorldTimeApi/static/js/main.5ec44e88.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ec44e88.js"
+  ]
+}
